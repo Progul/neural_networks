@@ -14,8 +14,8 @@
 
 ## &rarr; Урок 4. Сверточные нейронные сети
 - Лекция
-- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_3/DESNENKO_AV_HW_4.ipynb)
+- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_4/DESNENKO_AV_HW_4.ipynb)
 
 ## &rarr; Урок 5. Рекуррентные нейронные сети
 - Лекция
-- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_3/DESNENKO_AV_HW_5.ipynb)
+- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_5/DESNENKO_AV_HW_5.ipynb)
