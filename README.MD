@@ -19,3 +19,7 @@
 ## &rarr; Урок 5. Рекуррентные нейронные сети
 - Лекция
 - [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_5/DESNENKO_AV_HW_5.ipynb)
+
+## &rarr; Урок 6. Сегментация
+- Лекция
+- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_6/DESNENKO_AV_HW_6.ipynb)
