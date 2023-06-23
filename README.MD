@@ -23,3 +23,7 @@
 ## &rarr; Урок 6. Сегментация
 - Лекция
 - [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_6/DESNENKO_AV_HW_6.ipynb)
+
+## &rarr; Урок 7. Детектирование объектов
+- Лекция
+- [Домашняя работа](https://github.com/Progul/neural_networks/blob/master/HW/HW_7/DESNENKO_AV_HW_7.ipynb)
